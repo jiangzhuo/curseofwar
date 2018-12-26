@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "seedrandom": "^2.4.4",
+    "terminal-kit": "^1.26.8",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "ts-node": "^7.0.1"
+  },
+  "name": "curseofwar-node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:jiangzhuo/curseofwar.git",
+  "author": "jiangzhuo <glmmmmmm@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node main.ts"
+  }
+}
